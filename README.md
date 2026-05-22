@@ -1,3 +1,4 @@
+!!!work in progrss - first backup of active environment - it is fully usable as it is at this moment!!!
 Hey folks,
 
 this bio lab environment contains several programs for different purposes in the field 
@@ -13,9 +14,10 @@ within the environment used by R working. The files are also in the repository.
 
 It is a work in progress where several usable and good to get known progs will follow soonly.
 The setup is made in Debian cause of its longterm stability, some progs I will mark with * are not installable
-within micromamba, cause they are not existent in bioconda or conda-forge.
+within micromamba, cause they are not existent in bioconda or conda-forge, I did set them in the system wit apt
+but they will get used within the environment, so that these dependencies get used.
  
-🧬 Categories - Overvies of the BioLabEnvironment
+🧬 Categories - Overview of the BioLabEnvironment
 
 🧬 1) Quality Control (QC)
 
